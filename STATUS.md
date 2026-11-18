@@ -22,5 +22,5 @@
 ## In progress
 - None.
 
-## Stuck on
+## Stuck at
 - None.
